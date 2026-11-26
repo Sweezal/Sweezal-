@@ -1,166 +1,238 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:101B35,100:172A46&height=200&section=header&text=S%20W%20E%20E%20Z%20A%20L&fontSize=48&fontColor=00E5FF&fontAlignY=42&desc=BUILDING%20%7C%20LEARNING%20%7C%20EXPLORING&descSize=13&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="assets/banner.png" width="100%" alt="Sweezal — AI, Code, Curiosity"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B9FFF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%26+Intelligent+Systems;Turning+curiosity+into+code;Always+learning.+Always+building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+Progress;Computer+Vision+Enthusiast;Building+Things+That+Think;Curiosity+Into+Code+%E2%9C%A6" alt="Typing introduction"/>
 
-<br><br>
+<br/>
 
 <a href="https://github.com/Sweezal">
-<img src="https://img.shields.io/badge/GitHub-Sweezal-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GitHub-Sweezal-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
-
-<a href="https://github.com/Sweezal?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My_Repositories-111827?style=for-the-badge&logo=github&logoColor=8B9FFF"/>
-</a>
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Mode-Building-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=8B5CF6"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## `01` &nbsp; A LITTLE ABOUT ME
-
-<br>
-
-I'm **Sweezal Rodrigues** — an Artificial Intelligence and Machine Learning engineering student with a curiosity for technology and a love for building things.
-
-I enjoy exploring intelligent systems, experimenting with ideas, and turning concepts into something that actually works.
-
-<br>
-
-<i>Learn deeply. Build thoughtfully. Keep exploring.</i>
+## ✦ THE MIND BEHIND THE CODE
 
 </div>
 
----
+I'm an AI & Machine Learning engineering student fascinated by the intersection of intelligence, creativity, and technology.
+
+I enjoy turning ideas into experiments, experiments into applications, and applications into something meaningful. From computer vision to algorithmic problem-solving, I'm constantly exploring how technology can make the world a little smarter.
+
+**I don't just want to understand how things work. I want to build them.**
+
+<br/>
 
 <div align="center">
 
-## `02` &nbsp; AREAS I LOVE EXPLORING
+## ⌘ MY DIGITAL UNIVERSE
 
-<br>
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-0B1020?style=for-the-badge&logo=probot&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Machine_Learning-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Computer_Vision-0B1020?style=for-the-badge&logo=opencv&logoColor=5C9EFF"/>
-<img src="https://img.shields.io/badge/Software_Development-0B1020?style=for-the-badge&logo=visualstudiocode&logoColor=8B9FFF"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Algorithms_&_Problem_Solving-0B1020?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-
-<br><br>
-
-<i>From intelligent applications to algorithmic thinking —<br>
-I enjoy understanding how technology works and making it work better.</i>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-00F5FF?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-00F5FF?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Intelligent_Systems-8B5CF6?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-00F5FF?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Software_Development-8B5CF6?style=flat-square&logoColor=white"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## `03` &nbsp; THINGS I'VE BUILT
+## ⚡ SELECTED TRANSMISSIONS
 
-<br>
+*Projects from my development journey.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 👁️ Gesture-Based Desktop Control
+
+<img src="https://img.shields.io/badge/COMPUTER_VISION-00F5FF?style=flat-square"/>
+
+A hands-free desktop interaction project using real-time hand tracking and gesture recognition.
+
+<br/>
 
 <a href="https://github.com/Sweezal/gesture-based-desktop-control">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sweezal&repo=gesture-based-desktop-control&theme=tokyonight&hide_border=true&bg_color=0B1020"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
+
+</td>
+<td width="50%" align="center">
+
+### 🚘 Driver Monitoring System
+
+<img src="https://img.shields.io/badge/INTELLIGENT_SYSTEMS-8B5CF6?style=flat-square"/>
+
+A computer-vision-based system focused on driver awareness and road safety.
+
+<br/>
 
 <a href="https://github.com/Sweezal/Real-Time-Driver-Monitoring-and-Alert-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sweezal&repo=Real-Time-Driver-Monitoring-and-Alert-System&theme=tokyonight&hide_border=true&bg_color=0B1020"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6"/>
 </a>
 
-<br><br>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🧩 DSA JOURNEY
+
+<img src="https://img.shields.io/badge/ALGORITHMS-Problem_Solving-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 
 <a href="https://github.com/Sweezal/DSA-Journey">
-<img src="https://img.shields.io/badge/DSA_Journey-My_Problem_Solving_Archive-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/VIEW_MY_JOURNEY-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## `04` &nbsp; MY TOOLKIT
+## ⟡ TECH CONSTELLATION
 
-<br>
+*The tools I use to turn ideas into reality.*
 
-### Languages
+</div>
+
+<div align="center">
+
+### CORE LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql&theme=dark"/>
 
-<br><br>
+### INTELLIGENCE & VISION
 
-### AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,sklearn&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&theme=dark"/>
-
-<br><br>
-
-### Development
+### DEVELOPER TOOLKIT
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## `05` &nbsp; THE ACTIVITY GRID
+## 📡 THE BUILD LOG
 
-<br>
+*Every commit is a small step toward something bigger.*
 
-### LEETCODE
-
-<img src="https://leetcode-calander-svg.vercel.app/Sweezal_Rodrigues" width="95%" alt="LeetCode Contribution Heatmap"/>
-
-<br><br>
-
-### GITHUB
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sweezal&bg_color=0B1020&color=00E5FF&line=8B9FFF&point=00E5FF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sweezal&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=00F5FF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## `06` &nbsp; GITHUB STATISTICS
+## 🌱 GROWING THROUGH CODE
 
-<br>
+*Small commits. Bigger ideas.*
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sweezal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=8B9FFF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sweezal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweezal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00E5FF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweezal&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" height="165" alt="Most used languages"/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Sweezal&theme=tokyonight&hide_border=true&background=0B1020&ring=00E5FF&fire=8B9FFF&currStreakLabel=00E5FF"/>
+<img src="https://streak-stats.demolab.com?user=Sweezal&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=777777" width="100%" alt="GitHub contribution streak"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172A46,50:101B35,100:080B16&height=120&section=footer" width="100%"/>
+## 🎯 CURRENT TRANSMISSION
 
-<br>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/PRIMARY_LANGUAGE-Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/FOCUS-AI_%26_CV-0D1117?style=for-the-badge&logo=opencv&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS_LEARNING-0D1117?style=for-the-badge&logo=brain&logoColor=00F5FF"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🧪 NEXT IN THE PIPELINE
+
+Exploring new computer vision ideas.
+
+Strengthening algorithmic problem-solving.
+
+Turning experiments into useful applications.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🕹️ PLAYER TWO?
+
+<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+
+<a href="https://leetcode.com/Sweezal_Rodrigues/">
+<img src="https://img.shields.io/badge/FIND_ME_ON-LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 👀 YOU FOUND THE HIDDEN LAYER
+
+<details>
+<summary><b>Click to unlock a little secret</b></summary>
+
+<br/>
+
+```text
+       .  *       .       *
+   *       CURIOUS BY NATURE
+       .      BUILT THROUGH CODE
+   *       .         *
+
+       CURIOSITY → CODE → CREATION
+```
+
+The best ideas often begin with a question.
+
+Keep asking. Keep building.
+
+</details>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:00F5FF&height=120&section=footer" width="100%"/>
 
 ### `Curiosity → Code → Creation`
 
-<img src="https://img.shields.io/badge/Thanks_for_visiting-00E5FF?style=flat-square&labelColor=0B1020"/>
+<sub>Designed in midnight. Powered by ideas. ✦</sub>
 
 </div>
