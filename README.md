@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sweezal/Sweezal/main/assets/banner.png" width="100%" alt="Sweezal — AI, Code, Curiosity"/>
+<img src="https://raw.githubusercontent.com/Sweezal/Sweezal-/main/assets/banner.png" width="100%" alt="Sweezal — AI, Code, Curiosity"/>
 
 <br/>
 
