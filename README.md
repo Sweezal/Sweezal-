@@ -13,85 +13,87 @@
 </a>
 
 <a href="https://github.com/Sweezal?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=8B9FFF"/>
+<img src="https://img.shields.io/badge/Explore-My_Repositories-111827?style=for-the-badge&logo=github&logoColor=8B9FFF"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## `01` &nbsp; A LITTLE ABOUT ME
+
+<br>
+
+I'm **Sweezal Rodrigues** — an Artificial Intelligence and Machine Learning engineering student with a curiosity for technology and a love for building things.
+
+I enjoy exploring intelligent systems, experimenting with ideas, and turning concepts into something that actually works.
+
+<br>
+
+<i>Learn deeply. Build thoughtfully. Keep exploring.</i>
+
+</div>
+
+---
+
+<div align="center">
+
+## `02` &nbsp; AREAS I LOVE EXPLORING
+
+<br>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0B1020?style=for-the-badge&logo=probot&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Computer_Vision-0B1020?style=for-the-badge&logo=opencv&logoColor=5C9EFF"/>
+<img src="https://img.shields.io/badge/Software_Development-0B1020?style=for-the-badge&logo=visualstudiocode&logoColor=8B9FFF"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Algorithms_&_Problem_Solving-0B1020?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+
+<br><br>
+
+<i>From intelligent applications to algorithmic thinking —<br>
+I enjoy understanding how technology works and making it work better.</i>
+
+</div>
+
+---
+
+<div align="center">
+
+## `03` &nbsp; THINGS I'VE BUILT
+
+<br>
+
+<a href="https://github.com/Sweezal/gesture-based-desktop-control">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sweezal&repo=gesture-based-desktop-control&theme=tokyonight&hide_border=true&bg_color=0B1020"/>
+</a>
+
+<a href="https://github.com/Sweezal/Real-Time-Driver-Monitoring-and-Alert-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sweezal&repo=Real-Time-Driver-Monitoring-and-Alert-System&theme=tokyonight&hide_border=true&bg_color=0B1020"/>
 </a>
 
 <br><br>
 
-</div>
-
----
-
-## `01` &nbsp; About Me
-
-<img align="right" width="150" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Developer.gif"/>
-
-Hey! I'm **Sweezal Rodrigues**.
-
-An Artificial Intelligence and Machine Learning engineering student with a curiosity for technology and a passion for building things.
-
-I enjoy exploring the intersection of intelligent systems, software development, and real-world problem solving.
-
-I believe the best way to understand technology is to experiment with it, build with it, and keep improving.
-
-<br clear="right"/>
-
----
-
-## `02` &nbsp; My Interests
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-0B1020?style=for-the-badge&logo=probot&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Machine_Learning-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Computer_Vision-0B1020?style=for-the-badge&logo=opencv&logoColor=5C9EFF"/>
-<img src="https://img.shields.io/badge/Problem_Solving-0B1020?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-<img src="https://img.shields.io/badge/Software_Development-0B1020?style=for-the-badge&logo=visualstudiocode&logoColor=8B9FFF"/>
-
-</div>
-
-- Exploring intelligent applications and AI-driven solutions
-- Building computer vision and automation projects
-- Strengthening my foundation in data structures and algorithms
-- Learning through projects, experiments, and collaboration
-
----
-
-## `03` &nbsp; Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Sweezal/gesture-based-desktop-control">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sweezal&repo=gesture-based-desktop-control&theme=tokyonight&hide_border=true&bg_color=0B1020" />
-</a>
-
-<a href="https://github.com/Sweezal/Real-Time-Driver-Monitoring-and-Alert-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sweezal&repo=Real-Time-Driver-Monitoring-and-Alert-System&theme=tokyonight&hide_border=true&bg_color=0B1020" />
-</a>
-
-<a href="https://github.com/Sweezal/legal-case-management">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sweezal&repo=legal-case-management&theme=tokyonight&hide_border=true&bg_color=0B1020" />
-</a>
-
-<a href="https://github.com/Sweezal/Portfolio-Website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sweezal&repo=Portfolio-Website&theme=tokyonight&hide_border=true&bg_color=0B1020" />
-</a>
-
-</div>
-
-<div align="center">
-
 <a href="https://github.com/Sweezal/DSA-Journey">
-<img src="https://img.shields.io/badge/DSA_Journey-Explore-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/DSA_Journey-My_Problem_Solving_Archive-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 </div>
 
 ---
 
-## `04` &nbsp; Tech Stack
-
 <div align="center">
+
+## `04` &nbsp; MY TOOLKIT
+
+<br>
 
 ### Languages
 
@@ -99,13 +101,13 @@ I believe the best way to understand technology is to experiment with it, build 
 
 <br><br>
 
-### AI / Machine Learning
+### AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&theme=dark"/>
 
 <br><br>
 
-### Tools & Development
+### Development
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark"/>
 
@@ -113,9 +115,31 @@ I believe the best way to understand technology is to experiment with it, build 
 
 ---
 
-## `05` &nbsp; GitHub Statistics
+<div align="center">
+
+## `05` &nbsp; THE ACTIVITY GRID
+
+<br>
+
+### LEETCODE
+
+<img src="https://leetcode-calander-svg.vercel.app/Sweezal_Rodrigues" width="95%" alt="LeetCode Contribution Heatmap"/>
+
+<br><br>
+
+### GITHUB
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sweezal&bg_color=0B1020&color=00E5FF&line=8B9FFF&point=00E5FF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity"/>
+
+</div>
+
+---
 
 <div align="center">
+
+## `06` &nbsp; GITHUB STATISTICS
+
+<br>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sweezal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=8B9FFF&text_color=C9D1D9"/>
 
@@ -131,7 +155,9 @@ I believe the best way to understand technology is to experiment with it, build 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172A46,50:101B35,100:080B16&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172A46,50:101B35,100:080B16&height=120&section=footer" width="100%"/>
+
+<br>
 
 ### `Curiosity → Code → Creation`
 
