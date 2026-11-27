@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sweezal/Sweezal-/main/assets/banner.png" width="100%" alt="Sweezal — AI, Code, Curiosity"/>
-
-<br/>
+<img src="https://raw.githubusercontent.com/Sweezal/Sweezal/main/assets/sweezal-animated-banner.gif" width="100%" alt="Sweezal Animated Banner"/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+Progress;Computer+Vision+Enthusiast;Building+Things+That+Think;Curiosity+Into+Code+%E2%9C%A6" alt="Typing introduction"/>
 
