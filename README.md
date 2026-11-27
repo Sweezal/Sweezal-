@@ -134,8 +134,9 @@ A computer-vision-based system focused on driver awareness and road safety.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sweezal&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=00F5FF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Sweezal&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Sweezal GitHub Activity Graph"/>
+</div>
 </div>
 
 <br/>
